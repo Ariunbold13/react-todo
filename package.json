@@ -1,0 +1,24 @@
+{
+  "name": "react-todo",
+  "version": "1.0.0",
+  "description": "React To Do List app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariunbold13/react-todo.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Ariunbold Boldbaatar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ariunbold13/react-todo/issues"
+  },
+  "homepage": "https://github.com/Ariunbold13/react-todo#readme",
+  "dependencies": {
+  }
+}
