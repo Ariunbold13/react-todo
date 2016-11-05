@@ -1,17 +1,19 @@
 {
   "name": "react-todo",
-  "version": "1.0.0",
-  "description": "React To Do List app",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "React To Do Apps",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Hello\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ariunbold13/react-todo.git"
   },
   "keywords": [
-    "React"
+    "React",
+    "Redux",
+    "ToDo"
   ],
   "author": "Ariunbold Boldbaatar",
   "license": "MIT",
@@ -19,6 +21,16 @@
     "url": "https://github.com/Ariunbold13/react-todo/issues"
   },
   "homepage": "https://github.com/Ariunbold13/react-todo#readme",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
   "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
   }
 }
