@@ -56,7 +56,7 @@
 
 	'use strict';
 
-	console.log('I am home pages');
+	console.log('I am foo');
 
 /***/ }
 /******/ ]);
